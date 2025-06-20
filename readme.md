@@ -29,11 +29,11 @@ To run this project locally:
 1. Clone this repository:
 ```bash
 git clone https://github.com/MariAngelesm/Interactive_Message_System.git
-npm install my-project
+
 ```
 2. Navigate into the project directory:
 ```bash
-cd Interactive-Message-System
+cd Interactive_Message_System
 ```
 3. Open index.html in your browser:
 You can simply double-click the file, or
