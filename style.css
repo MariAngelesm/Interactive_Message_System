@@ -63,8 +63,11 @@ h1,p {
   outline: none;
  }
 
+
+
 .data-entry-button {
-  background: transparent;
+  background: linear-gradient(0deg, rgba(96,9,240,1) 0%, rgba(129,5,240,1) 100%);
+  border: none;
   font-family: 'Lato', sans-serif;
   display: inline-block;
   font-weight: 500;
@@ -80,19 +83,7 @@ h1,p {
     4px 4px 5px 0px rgba(0, 0, 0, .1);
   outline: none;
 }
-
-
-.data-entry-button {
-  background: #6009f0;
-  background: linear-gradient(0deg, rgba(96,9,240,1) 0%, rgba(129,5,240,1) 100%);
-  border: none;
- }
  
- .data-entry-button :before {
-  height: 0%;
-  width: 2px;
- }
-
 .data-entry-button:hover {
   box-shadow: 4px 4px 6px 0 rgba(255, 255, 255, .5),
     -4px -4px 6px 0 rgba(116, 125, 136, .5),
