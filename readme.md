@@ -33,7 +33,7 @@ npm install my-project
 ```
 2. Navigate into the project directory:
 ```bash
-cd interactive-message-system
+cd Interactive-Message-System
 ```
 3. Open index.html in your browser:
 You can simply double-click the file, or
