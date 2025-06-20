@@ -16,6 +16,11 @@ Welcome to the Interactive Message System, a simple and beginner-friendly web ap
 * **Error Logging**:
 Uses console.error() to display validation issues for debugging.
 
+## Technologies
+ 
+* Javascript
+* HTML
+* CSS
 
 ## Installation
 
